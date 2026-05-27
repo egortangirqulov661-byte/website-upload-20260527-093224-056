@@ -1,0 +1,23 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_coverage": 2000,
+  "html_pages_total": 2015,
+  "cover_images": 150,
+  "video_urls_extracted": 150,
+  "baidu_missing_pages": [],
+  "missing_detail_files": [],
+  "category_counts": {
+    "精选推荐": 200,
+    "热门电影": 200,
+    "剧集片库": 200,
+    "悬疑惊悚": 200,
+    "动作冒险": 200,
+    "爱情剧情": 200,
+    "喜剧治愈": 200,
+    "科幻奇幻": 200,
+    "历史战争": 200,
+    "动画纪录": 200
+  }
+}
